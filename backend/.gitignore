@@ -1,0 +1,13 @@
+# Secrets and credentials
+service_account.json
+client_secrets.json
+token_*.json
+.env
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
